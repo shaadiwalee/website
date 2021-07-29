@@ -1168,7 +1168,13 @@ img {
   line-height: 1;
   color: #ffffff;
   font-weight: 100;
+}
+.feature-center .wrapper-counter{
   display: block;
+  font-size: 50px;
+  line-height: 1;
+  color: #ffffff;
+  font-weight: 100;
 }
 .counter .counter-label {
   margin-bottom: 0;
