@@ -975,8 +975,8 @@ img {
   text-decoration: underline;
 }
 .section-gray .timeline .timeline-panel:after {
-  border-left-color: #fac4de;
-  border-right-color: #fac4de;
+  border-left-color: #ccc;
+  border-right-color: #ccc;
 }
 @media only screen and (min-width: 992px) {
   ul.timeline:before {
@@ -1323,7 +1323,7 @@ img {
 }
 .banner_bottom {
   padding: 10em 0 3em;
-  background-image: url(../images/img-banner-bottom.jpg);
+  background-image: url(../GetImage.jpeg);
 }
 .banner_bottom h2 {
   margin: 0;
@@ -1783,7 +1783,7 @@ footer .copyright .block {
 }
 /* Countdown */
 .countdown.section {
-  background-image: url(../images/img-countdown-bg.jpg);
+  background-image: url(../GetImage.jpeg);
 }
 .countdown .heading {
   margin-bottom: 8em;
@@ -1935,7 +1935,7 @@ footer .copyright .block {
 .timeline .timeline-panel {
   width: 75%;
   float: right;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   padding: 30px;
   position: relative;
   border-radius: 4px;
@@ -2016,8 +2016,8 @@ footer .copyright .block {
   text-decoration: underline;
 }
 .section-gray .timeline .timeline-panel:after {
-  border-left-color: #fac4de;
-  border-right-color: #fac4de;
+  border-left-color: #ccc;
+  border-right-color: #ccc;
 }
 @media only screen and (min-width: 992px) {
   ul.timeline:before {
